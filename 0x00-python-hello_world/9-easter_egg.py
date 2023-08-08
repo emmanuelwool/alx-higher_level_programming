@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-name="TimPeters"
+name="Tim Peters"
 print ("The Zen of Python, by" + name + "\n")
