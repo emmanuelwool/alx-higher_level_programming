@@ -7,5 +7,5 @@ if __name__ == "__main__":
     count = len(sys.argv) - 1
     sum=0
     for i in range(count):
-        sum=sum+i
-print("sum of arg is {}".format(sum))
+        sum=sum+int(sys.argv[i + 1])
+print("{}".format(sum))
