@@ -1,1 +1,1 @@
-CREATE DATABABE if Not exists hbtn_0c_0; 
+CREATE DATABABE if Not exists `hbtn_0c_0`; 
